@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view">เข้าสู่ระบบผู้ใช้</string>
+    <string name="username">ชื่อผู้ใช้</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="sign_up">ยังไม่มีบัญชีลงทะเบียน <u>ที่นี่</u> </string>
+</resources>

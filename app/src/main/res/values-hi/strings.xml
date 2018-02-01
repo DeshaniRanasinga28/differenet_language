@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view">उपयोगकर्ता लॉगिन</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="password">पारण शब्द</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="sign_up">खाते का पंजीकरण न करें<u>यहाँ</u> </string>
+</resources>

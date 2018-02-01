@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Differenet_Language</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="view">User Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Don\'t Have Account Sign up <u>here</u> </string>
+</resources>

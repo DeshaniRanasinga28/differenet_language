@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view">පරිශීලක පිවිසුම</string>
+    <string name="username">පරිශීලක නාමය</string>
+    <string name="password">මුරපදය</string>
+    <string name="login">ඇතුල් වන්න</string>
+    <string name="sign_up">ගිණුමක් නොමැතිව ලියාපදිංචි වන්න <u>මෙහි</u> </string>
+</resources>
